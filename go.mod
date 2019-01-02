@@ -1,4 +1,4 @@
-module ipip.net/embedded_node_exportor
+module github.com/17mon/embedded_node_exportor
 
 require github.com/prometheus/client_golang v0.9.1
 
